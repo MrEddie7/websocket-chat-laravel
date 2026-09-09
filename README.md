@@ -164,16 +164,6 @@ No menu **Register** (criar conta), cadastrar dois usuários:
 
 *(usuários criados via `php artisan tinker`)*
 
-### Vídeo da interação
-
-> **IMPORTANTE:** O vídeo mostrando a interação dos usuários deve ser gravado pelo estudante durante a execução local do projeto, pois as credenciais do Pusher são pessoais. Passos para reproduzir a interação:
->
-> 1. Executar `php artisan serve` e `npm run dev`
-> 2. Abrir dois navegadores (Chrome + Edge, ou janela normal + anônima)
-> 3. Logar com `usuario1@teste.com` em um e `usuario2@teste.com` no outro
-> 4. Acionar o menu **Chat** nos dois navegadores e conversar
-> 5. Gravar a tela com as duas janelas trocando mensagens em tempo real
-
 ## Comandos Úteis
 
 ```bash
